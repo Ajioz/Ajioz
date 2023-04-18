@@ -5,9 +5,9 @@
 
 ## Connect with me
 
-[![Instagram Badge](https://img.shields.io/badge/-samdoghor-%09%23483D8B?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ajioz1/)](https://www.instagram.com/ajioz1/)
-[![Twitter Badge](https://img.shields.io/badge/-samdoghor-%09%23483D8B?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ajioz_)](https://twitter.com/ajioz_)
-[![Linkedin Badge](https://img.shields.io/badge/-samdoghor-%09%23483D8B?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Ajioz/)](https://www.linkedin.com/in/Ajioz/
+[![Instagram Badge](https://img.shields.io/badge/-Ajioz-%09%23483D8B?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ajioz1/)](https://www.instagram.com/ajioz1/)
+[![Twitter Badge](https://img.shields.io/badge/-Ajioz-%09%23483D8B?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ajioz_)](https://twitter.com/ajioz_)
+[![Linkedin Badge](https://img.shields.io/badge/-Ajioz-%09%23483D8B?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/Ajioz/)](https://www.linkedin.com/in/Ajioz/)
 
 ## Github Cards
 

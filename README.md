@@ -14,5 +14,5 @@
 | ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ajioz&) | ![Stats](https://github-readme-stats.vercel.app/api?username=ajioz&show_icons=true&locale=en) |
 | ------------- | ------------- |
 
-| ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ajioz&show_icons=true&locale=en&layout=compact) |
+| ![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Ajioz&show_icons=true&locale=en&layout=compact) |
 | ------------- |

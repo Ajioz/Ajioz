@@ -11,4 +11,4 @@
 
 ## Github Cards
 
-| ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ajioz&)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ajioz&)

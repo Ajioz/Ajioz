@@ -36,7 +36,7 @@ const ajioz = {
 
 ### 📫 Connect with me:
 <a href="mailto:sunny@ajiozi.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=mail&logoColor=white">
 </a> 
 <a href="[https://linkedin.com/in/ajioz](https://www.linkedin.com/in/ajioz/)">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -65,7 +65,7 @@ const ajioz = {
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![](https://img.shields.io/badge/Nest.js-35495E?style=for-the-badge&logo=nestdotjs&logoColor=4FC08D)
+![](https://img.shields.io/badge/Nest.js-35495E?style=for-the-badge&logo=nestjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)

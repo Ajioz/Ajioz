@@ -76,7 +76,7 @@ const ajioz = {
 ---
 ### Show some ❤️ by starring some of the repositories!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Binay7587&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Ajioz&show_icons=true&hide_border=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
 
